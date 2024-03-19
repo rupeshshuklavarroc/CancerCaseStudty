@@ -20,6 +20,7 @@ Melanoma accounts for a significant portion of skin cancer deaths, highlighting 
   - Squamous cell carcinoma
   - Vascular lesion
 
+
 ## Project Pipeline
 
 1. **Data Reading/Data Understanding:** Define the paths for train and test images.
@@ -41,5 +42,12 @@ Melanoma accounts for a significant portion of skin cancer deaths, highlighting 
    - Examine class distribution in the training dataset.
    - Identify classes with the least number of samples.
    - Determine classes
+
+## Results before resolving the class imbalance :
+![image](https://github.com/rupeshshuklavarroc/CancerCaseStudty/assets/120721317/8c8dbd8b-060b-4437-a72b-9d6a729d733b)
+
+## Results after the resolving class imbalance :
+![image](https://github.com/rupeshshuklavarroc/CancerCaseStudty/assets/120721317/e78e9c47-73bd-4ce7-bba4-15336ef3a84a)
+
 
    
